@@ -28,7 +28,7 @@ The dataset used is `spam.csv`, which contains SMS messages labeled as "ham" or 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NLP-MiniProject-SpamDetection.git
+   git clone https://github.com/AnishGitFlow/NLP-MiniProject-SpamDetection.git
    cd NLP-MiniProject-SpamDetection
    ```
 2. Install the required libraries:
