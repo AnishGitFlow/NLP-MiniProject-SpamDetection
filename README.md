@@ -63,7 +63,7 @@ pip install tensorflow pandas numpy seaborn matplotlib wordcloud nltk
 
 ## Dataset
 
-You can download the dataset from: [Emails.csv](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
+You can download the dataset from: [Emails.csv](https://github.com/AnishGitFlow/NLP-MiniProject-SpamDetection/blob/main/emails.csv)
 
 ## Results
 
