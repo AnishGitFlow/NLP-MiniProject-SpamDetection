@@ -1,6 +1,5 @@
 **Spam Detection using TensorFlow in Python** project:
 
-```markdown
 # 📧 Spam Detection using TensorFlow in Python
 
 This repository demonstrates a machine learning solution for detecting spam messages using **TensorFlow** and **Natural Language Processing (NLP)**. The model classifies text messages as **spam** or **ham (not spam)** by learning patterns in labeled text data.
@@ -75,10 +74,3 @@ The model achieves high accuracy in distinguishing spam from ham messages after 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-### 📧 Inspired by real-world use cases of detecting unwanted or malicious content in messaging systems.
-```
-
----
