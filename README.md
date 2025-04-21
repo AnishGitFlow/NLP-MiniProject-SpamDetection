@@ -1,5 +1,3 @@
-**Spam Detection using TensorFlow in Python** project:
-
 # 📧 Spam Detection using TensorFlow in Python
 
 This repository demonstrates a machine learning solution for detecting spam messages using **TensorFlow** and **Natural Language Processing (NLP)**. The model classifies text messages as **spam** or **ham (not spam)** by learning patterns in labeled text data.
@@ -23,7 +21,7 @@ The project uses a publicly available SMS Spam Collection dataset. This dataset 
 - Classes: `spam`, `ham`
 - Format: CSV (two columns - label and message)
 
-> Dataset Source: [UCI Machine Learning Repository – SMS Spam Collection](https://github.com/AnishGitFlow/NLP-MiniProject-SpamDetection/blob/main/emails.csv)
+> Dataset Source: [emails.csv](https://github.com/AnishGitFlow/NLP-MiniProject-SpamDetection/blob/main/emails.csv)
 
 ## 🛠️ Tech Stack
 
