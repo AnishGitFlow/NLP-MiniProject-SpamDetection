@@ -1,7 +1,5 @@
 **Spam Detection using TensorFlow in Python** project:
 
----
-
 ```markdown
 # 📧 Spam Detection using TensorFlow in Python
 
@@ -26,7 +24,7 @@ The project uses a publicly available SMS Spam Collection dataset. This dataset 
 - Classes: `spam`, `ham`
 - Format: CSV (two columns - label and message)
 
-> Dataset Source: [UCI Machine Learning Repository – SMS Spam Collection]()
+> Dataset Source: [UCI Machine Learning Repository – SMS Spam Collection](https://github.com/AnishGitFlow/NLP-MiniProject-SpamDetection/blob/main/emails.csv)
 
 ## 🛠️ Tech Stack
 
