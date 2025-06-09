@@ -68,7 +68,3 @@ The model achieves high accuracy in distinguishing spam from ham messages after 
    ```bash
    jupyter notebook Spam_Detection_using_TensorFlow_in_Python.ipynb
    ```
-
-## 📜 License
-
-This project is licensed under the MIT License.
